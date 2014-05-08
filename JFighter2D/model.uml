@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_rU9BwJuzEeKbuoQl3M_SuA" name="Model">
+  <packageImport xmi:id="_rU9BwZuzEeKbuoQl3M_SuA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_0-eXYJvMEeK-KOt1KZ0PRg" name="Ship">
+    <ownedAttribute xmi:id="_aNGxMJvNEeK-KOt1KZ0PRg" name="Property1"/>
+    <ownedOperation xmi:id="_UJ4qgJvNEeK-KOt1KZ0PRg" name="disparar"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_nzaZYJvOEeK-KOt1KZ0PRg" name="Ship"/>
+</uml:Model>

@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/org/sfsoft/jfighter2d/JFighter2D.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/characters/Bullet.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/characters/Enemy.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/characters/PursuerEnemy.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/characters/Ship.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/characters/SmallEnemy.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/characters/StaticShooterEnemy.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/managers/EnemySpawner.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/managers/LevelManager.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/managers/ResourceManager.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/managers/SpriteManager.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/powerups/Powerup.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/util/Constants.java=UTF-8
+encoding//src/org/sfsoft/jfighter2d/util/Util.java=UTF-8
+encoding/<project>=UTF-8
